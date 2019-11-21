@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://github.com/warden22/warden22.github.io
+url: https://warden22.github.io/
 date_format: "ordinal"
 title: 汪汪影视
 subtitle: "电影改变人生"
