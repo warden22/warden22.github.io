@@ -1,5 +1,8 @@
-*.gem
-.bundle
-.sass-cache
-_site
+_site/
+*.swp
+*.~vsd
+\#*\#
+*~
+.DS_Store
 Gemfile.lock
+.vscode/
