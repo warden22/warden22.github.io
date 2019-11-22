@@ -58,7 +58,7 @@ subscribe_rss: /feed.xml
 # ---------------- #
 #      Jekyll      #
 # ---------------- #
-markdown: MardownPad 2
+markdown: Kramdown
 kramdown:
     input: GFM
 highlighter: rouge
