@@ -1,10 +1,12 @@
-- name: 码志
-  url: http://mazhuang.org
+- name: 优酷
+  url: https://www.youku.com/
   src: life
 
+- name: 哔哩哔哩
+  url: https://www.bilibili.com/
+  src: life
 
-
-- name: 水寒的博客
-  url: https://dp2px.com
+- name: 影猫
+  url: http://www.mvcat.com/
   src: www
 
