@@ -95,8 +95,8 @@ comments_provider: gitment
 #   username: warden22
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-   owner: warden22
-  repo: blog-comments
+    owner: warden22
+    repo: blog-comments
     oauth:
         client_id: f6e7098972534aa8c650
         client_secret: a0f9ffb6ebcc361d9ce484ba6273fac4e27e71b7
