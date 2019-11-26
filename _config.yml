@@ -67,6 +67,8 @@ lsi: false
 quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
+
+#plugins:
 gems:
     - jekyll-github-metadata
     - rouge
