@@ -11,7 +11,7 @@ MT3620 RF 测试电脑环境搭建
 全新安装操作系统,windows 10 X64 中文专业版,操作系统版本为1607或更新，将电脑的防病毒威胁的实时保护关闭以激活系统  
 如果需要切换为英文系统且手头上只有中文系统安装盘时,安装后设定语言为英文即可.  
 默认安装RF测试软件,解压IQfact+\_MTK\_3620\_MS\_WiFi\_USB\_3.3.0.Eng3\_Lock.zip  
-安装vs_community.exe，安装好后需要更新Visual Studio 2017，点帮助---检查更新，然后更新到15.7以后的版本  
+安装[vs_community.exe](https://visualstudio.microsoft.com/zh-hans/vs/community/)，安装好后需要更新Visual Studio，点帮助---检查更新，然后更新到15.7以后的版本  
 保持联网状态下安装Azure\_Sphere\_SDK\_Preview\_for\_Visual\_Studio.exe,目前RF测试电脑SDK版本是19.05,时间稍长，耐心等待.注意装SDK FOR WINDOWS的版本时RF测试第1,2项无法通过.  
 [SDK for visual studio下载地址](https://aka.ms/AzureSphereSDKDownload)  
 [SDK for windows下载地址](https://aka.ms/AzureSphereSDK/Windows)  
