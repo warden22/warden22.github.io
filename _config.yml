@@ -4,10 +4,10 @@
 baseurl:
 url: https://warden22.github.io
 date_format: "ordinal"
-title: 汪汪影视
-subtitle: "电影改变人生"
+title: 汪汪博客
+subtitle: "用心感受生活"
 description: "汪汪的个人博客"
-keywords: 汪汪影视, warden, warden22, warden
+keywords: 汪汪博客, warden, warden22, warden
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
