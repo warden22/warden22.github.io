@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure module RF PC setup
-categories: Azure Sphere
+categories: AzureSphere
 description: some word here
 keywords: keyword1, keyword2
 ---
