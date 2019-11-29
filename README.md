@@ -1,4 +1,4 @@
-# 码志
+# 汪汪博客
 
 我的个人博客：<https://warden22.github.io/>，欢迎 Star 和 Fork。
 
