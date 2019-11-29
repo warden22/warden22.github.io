@@ -63,14 +63,6 @@ azsphere dev manufacturing-state show
 cd C:\RF Testing Tools\RfToolCli  
 RfSettingsTool.exe show  
 RfSettingsTool.exe show -hexdump  
-config write MacAddress 00:02:B5:01:E6:03  //write MAC address  
-config write data 0x36 0x55		//Set Region US  
-config write data 0x37 0x53  
-config read data                      	//read buffer bin  
-config write data 0x3D 0x29		//set RxDiversity 2.4 & 5GHz  
-config read data                        //read buffer bin  
-config save  
-exit  
 
 **备注:**  
 &emsp;&emsp;如果发现RF测试FAIL时MAC地址也能写入，则很有可能是IQFACTSTUDIO里设定问题，定位到FINALIZE EEPROM这项，右键选择RUN MODE，选择SKIP ON FAIL.  
