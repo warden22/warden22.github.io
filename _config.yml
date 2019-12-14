@@ -68,8 +68,8 @@ quiet: false
 excerpt_separator: "\n\n"
 permalink: /:year/:month/:day/:title/
 
-#plugins:
-gems:
+plugins:
+#gems:
     - jekyll-github-metadata
     - rouge
 #     - jekyll-html-pipeline
@@ -108,7 +108,7 @@ gitalk:
     repo: warden22.github.io
     clientID: 8bda12345f79a409d74f
     clientSecret: f9a749c3be36ef590de9d29262176e0533f3dea2
-# 在使用其它评论组件时可点击显示 Disqus
+# 在使用其它评论组件时可点击显示Disqus
 lazy_load_disqus : false
 
 # ---------------- #
