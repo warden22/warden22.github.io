@@ -4,14 +4,14 @@
 baseurl:
 url: https://wwshare.top
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 汪汪小站
+subtitle: "公众号：孤舟蓑力翁"
+description: "汪汪小站，公众号：孤舟蓑力翁"
+keywords: 汪汪小站, warden, warden22, warden, 孤舟蓑力翁
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+repository: warden22/warden22.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -24,7 +24,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2020-05-03
+        start_date: 2020-05-27
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -33,12 +33,12 @@ compress_html:
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Wang
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: warden22
+location: Shenzhen, China
+email: wangping20031111@126.com
 
 # ---------------- #
 #    Navigation    #
@@ -118,14 +118,14 @@ gitment:
     owner: mzlogin
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 8bda12345f79a409d74f
+        client_secret: ce1b4b03a8fea4603924632deb719fcc56420de7
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: warden22
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: 8bda12345f79a409d74f
+    clientSecret: ce1b4b03a8fea4603924632deb719fcc56420de7
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -141,10 +141,10 @@ simple_jekyll_search:
 # ---------------- #
 #      Google      #
 # ---------------- #
-google:
-    analytics_id: UA-80669434-1
-    adsense:
-        footer: true
-        sidebar: true 
-        content_header: true
-        content_footer: false
+#google:
+#    analytics_id: UA-80669434-1
+#    adsense:
+#        footer: true
+#        sidebar: true 
+#        content_header: true
+#        content_footer: false
