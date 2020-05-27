@@ -123,7 +123,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: warden22
-    repo: blog-comments
+    repo: warden22.github.io
     clientID: 563d931c387f00f4f431
     clientSecret: 7d912073244e3801f1155eda17126611ff2a2508
 # 在使用其它评论组件时可点击显示 Disqus
