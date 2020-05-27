@@ -16,19 +16,19 @@ side_bar_repo_limit: 0
 #      Author      #
 # ---------------- #
 author: Warden
-organization: 
-organization_url: 
-github_username: warden22
+#organization: 
+#organization_url: 
+#github_username: warden22
 #location: Shenzhen, China
-email: wangping20031111@126.com
+#email: wangping20031111@126.com
 
 # ---------------- #
 #    Navigation    #
 # ---------------- #
 navs:
-  -
-    href: /
-    label: 首页
+# -
+#    href: /
+#    label: 首页
 
   -
     href: /categories/
